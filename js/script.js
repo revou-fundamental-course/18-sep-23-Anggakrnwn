@@ -13,3 +13,7 @@ function automaticSlide() {
     img[firstIndex -1].style.display="block";
 }
 automaticSlide();
+
+// contact validation
+
+
